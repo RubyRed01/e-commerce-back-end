@@ -19,7 +19,7 @@ Go to my github repo and install appropriate files.
 
 Here is my Github: [RubyRed01](https://github.com/RubyRed01)
 
-If you have any further questions about how to contribute, you may contact me at my email: evelyn.h2001@hotmial.com
+If you have any further questions about how to contribute, you may contact me at my email: evelyn.h2001@hotmail.com
 
 ## Testing
 

@@ -9,10 +9,6 @@ This application is for demonstrating the post, get and delete requests of a dat
 
 * [Installation](#installation)
 
-* [Usage](#usage)
-
-* [Contribute](#contribute)
-
 * [Testing](#testing)
 
 ## Installation
